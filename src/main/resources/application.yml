@@ -10,7 +10,5 @@ spring:
         git:
 #          uri: file:///Users/leesunghee/dev/spring_cloud/config-service/spring_cloud_config
           uri: https://github.com/Leesunghee/config-service
-
-          basedir: config-service
 #          username: realwunz@gmail.com
 #          password: ready2di@####
